@@ -1,0 +1,14 @@
+h1 {
+  text-align: center;
+  font-size: 40px;
+  color: darkslategrey;
+}
+
+section {
+  font-family: arial;
+}
+
+img {
+  border-radius: 15px 50px 30px;
+}
+
